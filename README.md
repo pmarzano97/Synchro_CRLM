@@ -4,4 +4,4 @@ For a detailed explanation of the study’s aims and theoretical rationale behin
 
 ...
 
-For further information about these codes, please either raise an issue or email paolo.marzano@unimi.it
+For further information about these codes, please either raise an issue or email paolo.marzano@unimi.it or paolo.marzano@humanitasresearch.it
